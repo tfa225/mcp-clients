@@ -21,7 +21,7 @@ npm run build
 
 4. Install Python requirements for the server:
 ```
-pip install modelcontextprotocol
+pip install mcp
 ```
 
 5. Run the client with the Python MCP server:
