@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import json
 import sys
-from modelcontextprotocol.server import Server
-from modelcontextprotocol.server.stdio import StdioServerTransport
+from mcp.server import Server
+from mcp.server.stdio import StdioServerTransport
 
 def main():
     # Create a new MCP server
